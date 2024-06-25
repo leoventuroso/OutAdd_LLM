@@ -1,6 +1,5 @@
 # OutAdd_LLM
 
-# OutAdd_LLM
 
 **Goal**: Creating a button in Outlook that opens a folder on OneDrive containing all documents, photos, and files referred to in an email conversation. Here's the workflow:
 
